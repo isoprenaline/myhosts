@@ -1,0 +1,14 @@
+Source: myhosts
+Section: user/other
+Priority: optional
+Maintainer: 内禀标质量 <wodewodewode@gmail.com>
+Build-Depends: debhelper (>= 5), libqt4-dev
+Standards-Version: 3.7.3
+Homepage: <insert the upstream URL, if relevant>
+
+Package: myhosts
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <帮助更新您的hosts>
+ <本程序会调用wget，请先安装wget（apt-get install wget），程序会从网上下载最新的hosts并同步到您的/etc/hosts，使用本程序之前需要先取得root权限再执行程序，否则不能更改系统文件！程序结束以后可以使用cat /etc/hosts来查看你的hosts以确保得到的是你想要的hosts！>
+XSBC-Maemo-Display-Name: myhosts

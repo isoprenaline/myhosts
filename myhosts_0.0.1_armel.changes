@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Mon, 09 Jul 2012 11:20:58 +0800
+Source: myhosts
+Binary: myhosts
+Architecture: armel
+Version: 0.0.1
+Distribution: unstable
+Urgency: low
+Maintainer: å†…ç¦€æ ‡è´¨é‡ <wodewodewode@gmail.com>
+Changed-By: ÄÚÙ÷±êÖÊÁ¿ <wodewodewode@gmail.com>
+Description: 
+ myhosts    - <å¸®åŠ©æ›´æ–°æ‚¨çš„hosts>
+Changes: 
+ myhosts (0.0.1) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ 80d2d78ee3f6b7a77fa4d0a7ba5bcc95ac9f43af 5260 myhosts_0.0.1_armel.deb
+Checksums-Sha256: 
+ 09fef6f125df39049a06e8c21fccffa4900d913a231ef287aa1e8e5882867292 5260 myhosts_0.0.1_armel.deb
+Files: 
+ 60f3e98217f6716b5e6cd36ce85f084f 5260 user/other optional myhosts_0.0.1_armel.deb
+Maemo-Display-Name: myhosts
